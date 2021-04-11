@@ -2,14 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shuzhongguiyan.github.io</id>
     <title>猫猫的日常记录</title>
-    <updated>2020-10-06T08:23:39.053Z</updated>
+    <updated>2021-04-11T17:26:46.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shuzhongguiyan.github.io"/>
     <link rel="self" href="https://shuzhongguiyan.github.io/atom.xml"/>
     <subtitle>每一天都是新的开始，所做的努力是为了让自己不再迁就！</subtitle>
     <logo>https://shuzhongguiyan.github.io/images/avatar.png</logo>
     <icon>https://shuzhongguiyan.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 猫猫的日常记录</rights>
+    <rights>All rights reserved 2021, 猫猫的日常记录</rights>
+    <entry>
+        <title type="html"><![CDATA[控制欲望，谨慎形色]]></title>
+        <id>https://shuzhongguiyan.github.io/post/kong-zhi-yu-wang-jin-shen-xing-se/</id>
+        <link href="https://shuzhongguiyan.github.io/post/kong-zhi-yu-wang-jin-shen-xing-se/">
+        </link>
+        <updated>2021-04-11T17:23:05.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="起因">起因</h1>
+<pre><code>最近闲来无事，听说网络色情诈骗蛮多。看了几许诈骗例子，总的来说，“色”是一把刀，涉及钱财，任何都需要谨慎。
+
+没有什么是免费的午餐，没有什么空手套白狼，什么都不能相信。</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[秋意渐凉]]></title>
         <id>https://shuzhongguiyan.github.io/post/qiu-yi-jian-liang/</id>
