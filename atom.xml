@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shuzhongguiyan.github.io</id>
-    <title>每一天都是新的开始</title>
-    <updated>2022-11-22T16:47:39.203Z</updated>
+    <title>日常安服狗</title>
+    <updated>2022-11-22T16:49:13.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shuzhongguiyan.github.io"/>
     <link rel="self" href="https://shuzhongguiyan.github.io/atom.xml"/>
     <subtitle>每一天都是新的开始，所做的努力是为了让自己不再迁就！</subtitle>
     <logo>https://shuzhongguiyan.github.io/images/avatar.png</logo>
     <icon>https://shuzhongguiyan.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, 每一天都是新的开始</rights>
+    <rights>All rights reserved 2022, 日常安服狗</rights>
     <entry>
         <title type="html"><![CDATA[控制欲望，谨慎形色]]></title>
         <id>https://shuzhongguiyan.github.io/post/kong-zhi-yu-wang-jin-shen-xing-se/</id>
